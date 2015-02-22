@@ -1,5 +1,5 @@
 #Getting and Cleaning Data Project
-#Project work for Coursera's Getting & Cleaning Data
+##Project work for Coursera's Getting & Cleaning Data
 #This file describes how the script works
 
 Firstly, we import all the data in R environment which are required. I have done this using the read.table command. The files read include:
