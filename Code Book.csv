@@ -1,0 +1,243 @@
+Field label:,Subject
+Variable:,Subject Name
+Variable type:,Character
+Field label:,Activity
+Variable:,Activity Name
+Variable type:,Character
+Field label:,tBodyAcc-mean()-X
+Variable:,Mean of tBodyAcc in X direction
+Variable type:,Numeric
+Field label:,tBodyAcc-mean()-Y
+Variable:,Mean of tBodyAcc in Y direction
+Variable type:,Numeric
+Field label:,tBodyAcc-mean()-Z
+Variable:,Mean of tBodyAcc in Z direction
+Variable type:,Numeric
+Field label:,tGravityAcc-mean()-X
+Variable:,Mean of tGravityAcc in X direction
+Variable type:,Numeric
+Field label:,tGravityAcc-mean()-Y
+Variable:,Mean of tGravityAcc in Y direction
+Variable type:,Numeric
+Field label:,tGravityAcc-mean()-Z
+Variable:,Mean of tGravityAcc in Z direction
+Variable type:,Numeric
+Field label:,tBodyAccJerk-mean()-X
+Variable:,Mean of tBodyAccJerk in X direction
+Variable type:,Numeric
+Field label:,tBodyAccJerk-mean()-Y
+Variable:,Mean of tBodyAccJerk in Y direction
+Variable type:,Numeric
+Field label:,tBodyAccJerk-mean()-Z
+Variable:,Mean of tBodyAccJerk in Z direction
+Variable type:,Numeric
+Field label:,tBodyGyro-mean()-X
+Variable:,Mean of tBodyGyro in X direction
+Variable type:,Numeric
+Field label:,tBodyGyro-mean()-Y
+Variable:,Mean of tBodyGyro in Y direction
+Variable type:,Numeric
+Field label:,tBodyGyro-mean()-Z
+Variable:,Mean of tBodyGyro in Z direction
+Variable type:,Numeric
+Field label:,tBodyGyroJerk-mean()-X
+Variable:,Mean of tBodyGyroJerk in X direction
+Variable type:,Numeric
+Field label:,tBodyGyroJerk-mean()-Y
+Variable:,Mean of tBodyGyroJerk in Y direction
+Variable type:,Numeric
+Field label:,tBodyGyroJerk-mean()-Z
+Variable:,Mean of tBodyGyroJerk in Z direction
+Variable type:,Numeric
+Field label:,tBodyAccMag-mean()
+Variable:,Mean of tBodyAccMag
+Variable type:,Numeric
+Field label:,tGravityAccMag-mean()
+Variable:,Mean of tGravityAccMag
+Variable type:,Numeric
+Field label:,tBodyAccJerkMag-mean()
+Variable:,Mean of tBodyAccJerkMag
+Variable type:,Numeric
+Field label:,tBodyGyroMag-mean()
+Variable:,Mean of tBodyGyroMag
+Variable type:,Numeric
+Field label:,tBodyGyroJerkMag-mean()
+Variable:,Mean of tBodyGyroJerkMag
+Variable type:,Numeric
+Field label:,fBodyAcc-mean()-X
+Variable:,Mean of fBodyAcc in X direction
+Variable type:,Numeric
+Field label:,fBodyAcc-mean()-Y
+Variable:,Mean of fBodyAcc in Y direction
+Variable type:,Numeric
+Field label:,fBodyAcc-mean()-Z
+Variable:,Mean of fBodyAcc in Z direction
+Variable type:,Numeric
+Field label:,fBodyAcc-meanFreq()-X
+Variable:,Mean Frequency of fBodyAcc in X direction
+Variable type:,Numeric
+Field label:,fBodyAcc-meanFreq()-Y
+Variable:,Mean Frequency of fBodyAcc in X direction
+Variable type:,Numeric
+Field label:,fBodyAcc-meanFreq()-Z
+Variable:,Mean Frequency of fBodyAcc in X direction
+Variable type:,Numeric
+Field label:,fBodyAccJerk-mean()-X
+Variable:,Mean of fBodyAcc in X direction
+Variable type:,Numeric
+Field label:,fBodyAccJerk-mean()-Y
+Variable:,Mean of fBodyAcc in Y direction
+Variable type:,Numeric
+Field label:,fBodyAccJerk-mean()-Z
+Variable:,Mean of fBodyAcc in Z direction
+Variable type:,Numeric
+Field label:,fBodyAccJerk-meanFreq()-X
+Variable:,Mean of fBodyAccJerk in X direction
+Variable type:,Numeric
+Field label:,fBodyAccJerk-meanFreq()-Y
+Variable:,Mean of fBodyAccJerk in Y direction
+Variable type:,Numeric
+Field label:,fBodyAccJerk-meanFreq()-Z
+Variable:,Mean of fBodyAccJerk in Z direction
+Variable type:,Numeric
+Field label:,fBodyGyro-mean()-X
+Variable:,Mean of fBodyGyro in X direction
+Variable type:,Numeric
+Field label:,fBodyGyro-mean()-Y
+Variable:,Mean of fBodyGyro in Y direction
+Variable type:,Numeric
+Field label:,fBodyGyro-mean()-Z
+Variable:,Mean of fBodyGyro in Z direction
+Variable type:,Numeric
+Field label:,fBodyGyro-meanFreq()-X
+Variable:,Mean Frequency of fBodyGyro in X direction
+Variable type:,Numeric
+Field label:,fBodyGyro-meanFreq()-Y
+Variable:,Mean Frequency of fBodyGyro in Y direction
+Variable type:,Numeric
+Field label:,fBodyGyro-meanFreq()-Z
+Variable:,Mean Frequency of fBodyGyro in Y direction
+Variable type:,Numeric
+Field label:,fBodyAccMag-mean()
+Variable:,Mean of fBodyAccMag
+Variable type:,Numeric
+Field label:,fBodyAccMag-meanFreq()
+Variable:,Mean of fBodyAccMag
+Variable type:,Numeric
+Field label:,fBodyBodyAccJerkMag-mean()
+Variable:,Mean of fBodyBodyAccJerkMag
+Variable type:,Numeric
+Field label:,fBodyBodyAccJerkMag-meanFreq()
+Variable:,Mean Frequency of fBodyBodyAccJerkMag
+Variable type:,Numeric
+Field label:,fBodyBodyGyroMag-mean()
+Variable:,Mean of fBodyBodyGyroMag
+Variable type:,Numeric
+Field label:,fBodyBodyGyroMag-meanFreq()
+Variable:,Mean Frequency of fBodyBodyGyroMag
+Variable type:,Numeric
+Field label:,fBodyBodyGyroJerkMag-mean()
+Variable:,Mean of fBodyBodyGyroJerkMag
+Variable type:,Numeric
+Field label:,fBodyBodyGyroJerkMag-meanFreq()
+Variable:,Mean Frequency of fBodyBodyGyroJerkMag
+Variable type:,Numeric
+Field label:,tBodyAcc-std()-X
+Variable:,Standard Deviation of tBodyAcc in X direction
+Variable type:,Numeric
+Field label:,tBodyAcc-std()-Y
+Variable:,Standard Deviation of tBodyAcc in Y direction
+Variable type:,Numeric
+Field label:,tBodyAcc-std()-Z
+Variable:,Standard Deviation of tBodyAcc in Z direction
+Variable type:,Numeric
+Field label:,tGravityAcc-std()-X
+Variable:,Standard Deviation of tGravityAcc in X direction
+Variable type:,Numeric
+Field label:,tGravityAcc-std()-Y
+Variable:,Standard Deviation of tGravityAcc in Y direction
+Variable type:,Numeric
+Field label:,tGravityAcc-std()-Z
+Variable:,Standard Deviation of tGravityAcc in Z direction
+Variable type:,Numeric
+Field label:,tBodyAccJerk-std()-X
+Variable:,Standard Deviation of tBodyAccJerk in X direction
+Variable type:,Numeric
+Field label:,tBodyAccJerk-std()-Y
+Variable:,Standard Deviation of tBodyAccJerk in Y direction
+Variable type:,Numeric
+Field label:,tBodyAccJerk-std()-Z
+Variable:,Standard Deviation of tBodyAccJerk in Z direction
+Variable type:,Numeric
+Field label:,tBodyGyro-std()-X
+Variable:,Standard Deviation of tBodyGryo in X direction
+Variable type:,Numeric
+Field label:,tBodyGyro-std()-Y
+Variable:,Standard Deviation of tBodyGryo in Y direction
+Variable type:,Numeric
+Field label:,tBodyGyro-std()-Z
+Variable:,Standard Deviation of tBodyGryo in Z direction
+Variable type:,Numeric
+Field label:,tBodyGyroJerk-std()-X
+Variable:,Standard Deviation of tBodyGyroJerk in X direction
+Variable type:,Numeric
+Field label:,tBodyGyroJerk-std()-Y
+Variable:,Standard Deviation of tBodyGyroJerk in Y direction
+Variable type:,Numeric
+Field label:,tBodyGyroJerk-std()-Z
+Variable:,Standard Deviation of tBodyGyroJerk in Z direction
+Variable type:,Numeric
+Field label:,tBodyAccMag-std()
+Variable:,Standard Deviation of tBodyAccMag in X direction
+Variable type:,Numeric
+Field label:,tGravityAccMag-std()
+Variable:,Standard Deviation of tBodyAccMag in Y direction
+Variable type:,Numeric
+Field label:,tBodyAccJerkMag-std()
+Variable:,Standard Deviation of tBodyAccMag in Z direction
+Variable type:,Numeric
+Field label:,tBodyGyroMag-std()
+Variable:,Standard Deviation of tBodyGyroMag
+Variable type:,Numeric
+Field label:,tBodyGyroJerkMag-std()
+Variable:,Standard Deviation of tBodyGyroJerkMag
+Variable type:,Numeric
+Field label:,fBodyAcc-std()-X
+Variable:,Standard Deviation of fBodyAcc in X direction
+Variable type:,Numeric
+Field label:,fBodyAcc-std()-Y
+Variable:,Standard Deviation of fBodyAcc in Y direction
+Variable type:,Numeric
+Field label:,fBodyAcc-std()-Z
+Variable:,Standard Deviation of fBodyAcc in Z direction
+Variable type:,Numeric
+Field label:,fBodyAccJerk-std()-X
+Variable:,Standard Deviation of fBodyAccJerk in X direction
+Variable type:,Numeric
+Field label:,fBodyAccJerk-std()-Y
+Variable:,Standard Deviation of fBodyAccJerk in Y direction
+Variable type:,Numeric
+Field label:,fBodyAccJerk-std()-Z
+Variable:,Standard Deviation of fBodyAccJerk in Z direction
+Variable type:,Numeric
+Field label:,fBodyGyro-std()-X
+Variable:,Standard Deviation of fBodyGyro in X direction
+Variable type:,Numeric
+Field label:,fBodyGyro-std()-Y
+Variable:,Standard Deviation of fBodyGyro in Y direction
+Variable type:,Numeric
+Field label:,fBodyGyro-std()-Z
+Variable:,Standard Deviation of fBodyGyro in Z direction
+Variable type:,Numeric
+Field label:,fBodyAccMag-std()
+Variable:,Standard Deviation of fBodyAccMag 
+Variable type:,Numeric
+Field label:,fBodyBodyAccJerkMag-std()
+Variable:,Standard Deviation of fBodyBodyAccJerkMag
+Variable type:,Numeric
+Field label:,fBodyBodyGyroMag-std()
+Variable:,Standard Deviation of fBodyBodyGyroMag
+Variable type:,Numeric
+Field label:,fBodyBodyGyroJerkMag-std()
+Variable:,Standard Deviation of fBodyBodyGyroJerkMag
+Variable type:,Numeric
